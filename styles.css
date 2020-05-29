@@ -1,6 +1,3 @@
-body{
-    background-color: white;
-}
 h1{
     color: white;
     font-family: impact;
@@ -164,4 +161,9 @@ h3{
 }
 #fabiocm{
    margin-left:-1450px; 
+   width: 150px;
+}
+#fabiocmtxt{
+    margin-left: -1450px;
+    font-size: 20px;
 }
